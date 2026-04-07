@@ -10,12 +10,7 @@ TODO: The Next PRoject is To Reveal A Supiriot Version That Will Use Probabilist
 
 Example of Probabilistic Quantum Code :
 
-# Hi i Realy Apperciated you getting me a donation here_ 1Bu4CR8Bi5AXQG8pnu1avny88C5CCgWKfb /// 1NEJcwfcEm7Aax8oJNjRUnY3hEavCjNrai /// 
-# ====================================================================================================================================
 
-# BEST FINAL FULLY EXPANDED QISKIT QUANTUM PROBABILISTIC RANGE REDUCER
-# Ultimate Expanded Edition - April 2026
-#
 # Features:
 #   • Works with public address ONLY (Puzzle 71)
 #   • Works with public address + public key (Puzzle 135)
