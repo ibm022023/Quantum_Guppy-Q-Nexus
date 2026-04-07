@@ -25,13 +25,14 @@ TODO: The Next Project is To Reveal A Supirior Version That Will Use Probabilist
 #   • Counter for measurement distribution
 #   • Current IBM free backends (kingston, fez, marrakech)
 #   • Verbose comments everywhere
-# ===================================
+
+# ————————————————————————————————————
 # 1. INSTALLATION (run this cell first in Google Colab)
 
 # !pip install qiskit qiskit-ibm-runtime ecdsa pycryptodome base58
 
 # 2. IMPORTS
-# ===================================
+# ------------------------------------
 
 import numpy as np
 from qiskit_ibm_runtime import QiskitRuntimeService, SamplerV2 as Sampler
