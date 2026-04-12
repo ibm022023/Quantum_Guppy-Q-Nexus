@@ -1,6 +1,6 @@
 # Hi i-Realy Apperciated you get me A Donation here_ 1Bu4CR8Bi5AXQG8pnu1avny88C5CCgWKfb /////
 # ===========================================================================================
-# 🔥🐉 DRAGON_CODE_FUTURE — ULTIMATE QUANTUM ECDLP SOLVER (v155) — QISKIT REAL HARDWARE ONLY
+# 🔥🐉 DRAGON_CODE_FUTURE — ULTIMATE QUANTUM ECDLP SOLVER (v155) — QISKIT REAL HARDWARE 🔥🐉
 # ===========================================================================================
 #
 # ===========================================================================================
@@ -1134,7 +1134,7 @@ def main():
     # =========================================================================
     print("\nChoose Algorithm:")
     print("  [1] Regev Multi-Dimensional (primary — multi-dim QFT)")
-    print("  [2] Shor's QPE Modes (Top-10 modes — best single-qubit semiclassical)")
+    print("  [2] Shor's QPE Modes (Top-10 modes + Extra Single-Qubit Build )")
     algo_choice = input("Select [1/2] → ").strip() or "1"
 
     # =========================================================================
